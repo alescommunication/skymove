@@ -1,9 +1,9 @@
 /************* Constants *************/
 
 /* Var : string APIKEY
-*  Replace by your own API Key
+*  7a5c3832f0e257fb
 */
-var APIKEY = 7a5c3832f0e257fb"";
+var APIKEY = "";
 
 var retina = window.devicePixelRatio >= 2;
 var retina3 = window.devicePixelRatio >= 3;
